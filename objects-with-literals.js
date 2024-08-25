@@ -1,4 +1,7 @@
-const { not } = require("cheerio/lib/api/traversing")
+/**
+ * create an empty object with a method as a property
+ * use the method to populate the object
+ */
 
 let  firstObject={
      AddProperty(param1, param2){
